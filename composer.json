@@ -11,5 +11,7 @@
             "email": "g.petraroli@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "ext-openssl": "*"
+    }
 }
