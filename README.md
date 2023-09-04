@@ -1,5 +1,7 @@
 # Design patterns in PHP
 
+### Status: in progress
+
 ### Introduction
 This repository contains examples of design patterns in PHP.
 The aim of this repository is to provide a quick reference for the most common design patterns and to integrate the [Refactoring Guru](https://refactoring.guru/design-patterns) website.
